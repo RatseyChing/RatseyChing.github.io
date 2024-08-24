@@ -195,5 +195,5 @@ To data collection should extend to the Sentiment Analysis and more reviews in t
 This report based on a few predictive analytics models which might affect the decisions of the management, which in turn, the change in policy or any marketing or growth strategies, in terms of the privacy, fairness, accuracy, accountability and transparency, could be important for maintaining integrity and trust.  By publishing the report, I only aim at creating some platform to discuss the result academically without any intension to diverse or violate the ethical standards that I ought to maintain and respect.
 
 ## Source Codes and Datasets
-Upload your model files and dataset into a GitHub repo and add the link here. 
+(https://github.com/RatseyChing/itd214_proj)
 Sources of the datasets is: https://www.Kaggle.com/code/ggsri123/lead-score
